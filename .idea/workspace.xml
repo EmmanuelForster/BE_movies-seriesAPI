@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6fe2aef-6148-4c23-9ff9-3e23bea04b16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/java/edu/dh/catalogService/rabbitConfig/RabbitMQSenderConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/java/edu/dh/catalogService/rabbitConfig/RabbitMQSenderConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/movie-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/series-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/series-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/series-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/series-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <list id="e0147d19-f361-4e28-b517-3d4e3c95392f" name="Changes by romicolombo" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/api-gateway/src/main/java/edu/dh/apiGateway/ApiGatewayApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/catalog-service/src/main/java/edu/dh/catalogService/CatalogServiceApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eureka-server/src/main/java/edu/dh/eurekaServer/EurekaServerApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/series-service/src/main/java/edu/dh/seriesService/SeriesServiceApplication.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28MEuQvuqTyrFJXtfj1ay0tto4I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/fox-a/OneDrive/Escritorio/APIBack/api-gateway",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="edu.dh.catalogService.service" />
+      <recent name="edu.dh.catalogService.repository" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fox-a\OneDrive\Escritorio\APIBack\api-gateway" />
+      <recent name="C:\Users\fox-a\OneDrive\Escritorio\APIBack\catalog-service" />
+      <recent name="C:\Users\fox-a\OneDrive\Escritorio\APIBack\config-server" />
+      <recent name="C:\Users\fox-a\OneDrive\Escritorio\APIBack\movie-service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CatalogServiceApplication">
+    <configuration name="CatalogServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dh.catalogService.CatalogServiceApplication" />
+      <module name="catalog-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dh.catalogService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edy.dh.configServer.ConfigServerApplication" />
+      <module name="config-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edy.dh.configServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dh.eurekaServer.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dh.eurekaServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeriesServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.dh.seriesService.SeriesServiceApplication" />
+      <module name="series-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dh.seriesService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.dh.movieService.MovieServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.dh.movieService.MovieServiceApplication" />
+      <module name="movie-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.dh.movieService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigServerApplication" />
+      <item itemvalue="Application.CatalogServiceApplication" />
+      <item itemvalue="Application.EurekaServerApplication" />
+      <item itemvalue="Application.edu.dh.movieService.MovieServiceApplication" />
+      <item itemvalue="Application.SeriesServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CatalogServiceApplication" />
+        <item itemvalue="Application.SeriesServiceApplication" />
+        <item itemvalue="Application.edu.dh.movieService.MovieServiceApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
+        <item itemvalue="Application.ConfigServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6fe2aef-6148-4c23-9ff9-3e23bea04b16" name="Changes" comment="" />
+      <created>1651018277825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651018277825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
